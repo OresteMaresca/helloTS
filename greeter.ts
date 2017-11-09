@@ -2,6 +2,6 @@ function greeter(person:string){
   console.log(person);
 }
 
-var user = "Jane User";
+var user = "Jane";
 
 greeter(user);
