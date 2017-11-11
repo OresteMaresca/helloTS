@@ -2,8 +2,12 @@ function plus(a:number, b:number){
   return a+b;
 }
 
-function nultuplication(a:number, b:number){
+function multuplication(a:number, b:number){
   return a*b;
+}
+
+function division(a:number, b:number){
+  return a/b;
 }
 
 var suma:number;
